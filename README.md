@@ -16,3 +16,6 @@ sudo ifconfig eth0 hw ether 00:11:22:33:44:55
 sudo ifconfig eth0 up
 <img width="1920" height="922" alt="VirtualBox_kali linux_03_07_2026_20_14_55" src="https://github.com/user-attachments/assets/76c7caf1-2c49-4f2f-98ea-7456d893dad4" />
 
+2. Network Configuration Verification
+We run ifconfig to verify that the MAC address change was successful and to confirm our attacker IP address (192.168.1.4).
+(Screenshot showing the updated interface configuration)
